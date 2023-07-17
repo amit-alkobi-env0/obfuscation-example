@@ -1,0 +1,1 @@
+{"version":3,"file":"main.js","mappings":"4BAAO,SAASA,IACZ,MAAM,MAAU,8BACpB,CCDAC,QAAQC,GAAG,CAAC,gBACZF,G","sources":["webpack://my-webpack-project/./src/pack1/module1.ts","webpack://my-webpack-project/./src/index.ts"],"names":["func1","console","log"],"sourceRoot":""}
